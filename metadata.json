@@ -1,0 +1,5 @@
+{
+  "name": "CELPIP Writing Coach",
+  "description": "A friendly but strict AI tutor, powered by Gemini, designed to help you achieve Band 10 on CELPIP Writing tasks by providing step-by-step guidance, feedback, and expert edits.",
+  "requestFramePermissions": []
+}
